@@ -1,0 +1,24 @@
+.custom-box {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.second {
+    display: flex;
+    gap: 10px;
+}
+
+.first-box {
+    width: 240px;
+    height: 200px;
+}
+
+.second-box {
+    width: 40px;
+    height: 40px;
+}
+
+img {
+    object-fit: cover;
+}
